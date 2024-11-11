@@ -15,7 +15,7 @@ return [
   ],
   [
     'username' => 'ana.costa',
-    'email' => "",
+    'email' => ""
   ],
   [
     'username' => 'carlos.fernandes',
@@ -27,7 +27,7 @@ return [
   ],
   [
     'username' => 'roberto.almeida',
-    'email' => "",
+    'email' => ""
   ],
   [
     'username' => 'fernanda.rocha',
@@ -35,7 +35,7 @@ return [
   ],
   [
     'username' => 'marcos.ramos',
-    'email' => "",
+    'email' => ""
   ],
   [
     'username' => 'lucia.martins',
@@ -51,7 +51,7 @@ return [
   ],
   [
     'username' => 'andre.azevedo',
-    'email' => "",
+    'email' => ""
   ],
   [
     'username' => 'priscila.santos',
@@ -63,7 +63,7 @@ return [
   ],
   [
     'username' => 'renata.cardoso',
-    'email' => "",
+    'email' => ""
   ],
   [
     'username' => 'felipe.souza',
@@ -79,6 +79,6 @@ return [
   ],
   [
     'username' => 'leticia.lopes',
-    'email' => "",
+    'email' => ""
   ],
 ];

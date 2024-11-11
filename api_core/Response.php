@@ -8,7 +8,7 @@ class Response {
     if (!API_IS_ACTIVE) {
       return json_encode([
         "status" => 400,
-        "message" => "api is not running",
+        "message" => "Error: Api is not running",
         "api_version" => API_VERSION,
         "time_response" => time(),
         "date" => date("d-M-Y H:i:s"),
